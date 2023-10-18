@@ -4,10 +4,10 @@ const cfonts = require('cfonts');
 
 // create a MySQL connection
 const connection = mysql.createConnection({
-    host: "localhost",
-    port: 3306,
+    host: "127.0.0.1",
+    port: 3001,
     user: "root",
-    password: "root",
+    password: "Root",
     database: "employeeTracker_db",
 });
 
@@ -20,7 +20,7 @@ connection.connect((err) => {
 });
 
 // Function to start the application of CFONT 
-cfonts.say('Thomas & Friends \nSQL Employee Tracker', {
+cfonts.say('Employee Tracker', {
 	font: 'block',              // define the font face
 	align: 'left',              // define text alignment
 	colors: ['blue'],         // define all colors
@@ -35,7 +35,7 @@ cfonts.say('Thomas & Friends \nSQL Employee Tracker', {
 	env: 'node'                 // define the environment cfonts is being executed in
 });
 
-// Function to Start Thomas SQL Employee Tracker Application
+// Function to Start  Employee Tracker Application
 function start() {
     inquirer
         .prompt({

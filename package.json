@@ -1,9 +1,20 @@
 {
   "dependencies": {
+    "cfonts": "^3.2.0",
     "inquirer": "^8.2.4",
     "mysql2": "^3.6.2"
   },
   "devDependencies": {
     "@types/node": "^20.8.6"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee_tracker",
+  "description": "helps track employee's, In a simple more direct way.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
