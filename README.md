@@ -7,9 +7,11 @@ cfont
 mysql2
 
 # screenshots
-![Screenshot (20)](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/fc776c48-a66a-4df1-aee1-bff2a937d593)
-![Screenshot (22)](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/42c6cd68-8e83-4efd-a6f7-d70af67bed57)
-![Screenshot (21)](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/db64d1f0-e6cf-42bf-9386-99c2bc20d4ae)
+![Screenshot (27)](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/f0fdb8fb-df6c-4b2c-a2df-8c7a884a49e1)
+![Screenshot (28)](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/ec87cbf1-9fd8-450a-b056-5d74d4e195d7)
+![Scr![Screenshot (29)](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/c13936ff-3990-4e54-b74a-8b26c9e7c2e2)
+eenshot (30)](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/9e4d2e57-31fe-4b63-8778-600a301d404f)
+
 
 # walk through video
 [Untitled_ Oct 18, 2023 10_13 PM.webm](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/ded8d813-1682-4eab-a750-1faabb2dd1e9)
