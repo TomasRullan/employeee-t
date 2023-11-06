@@ -14,4 +14,4 @@ eenshot (30)](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/9
 
 
 # walk through video
-[Untitled_ Oct 18, 2023 10_13 PM.webm](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/ded8d813-1682-4eab-a750-1faabb2dd1e9)
+[Untitled_ Nov 6, 2023 4_20 PM.webm](https://github.com/TomasRullan/Employee_Tracker/assets/139053276/930474bb-039c-4165-9079-d90bac78ffee)
